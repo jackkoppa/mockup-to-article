@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. I haven't previously used the <hr> element with any regularity. It was good to be reminded of that as an option in page design.
+2. Most of this project was quite easy, since I've had a pretty fair amount of experience with HTML & CSS up to this point. It was good to realize that all the elements I needed to use came to me easily.
+3. Nothing was too difficult in this project - I expect that to happen a lot more in the near future.
+4. So far, the most useful strategy has been to put effort into my projects daily - I'm very happy to be making progress throughout the first day and a half of starting the Nanodegree. And to be consistently dedicating time.
